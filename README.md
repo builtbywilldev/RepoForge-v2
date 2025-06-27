@@ -1,9 +1,8 @@
-# {{PROJECT_NAME}}
+# 🛠️ RepoForge-V2
 
 > This repo was generated using a custom CLI tooling system by [builtbywill.dev](https://builtbywill.dev)
 
 ---
-# 🛠️ RepoForge
 
 **// Automated repo initializer for disciplined devs**
 
