@@ -1,86 +1,41 @@
-# 🛠️ RepoForge-V2
+# 🛠️ RepoForge V2
 
-> This repo was generated using a custom CLI tooling system by [builtbywill.dev](https://builtbywill.dev)
+> Built by [builtbywill.dev](https://www.builtbywill.dev)  
+> Powered by [silentprototype.com](https://www.silentprototype.com)  
+> ⛓️ Phase–Coded | Method–Signed | Terminal–Forged
 
 ---
 
-**// Automated repo initializer for disciplined devs**
+## 🧠 What Is RepoForge?
 
-RepoForge is a command-line tool that forges new GitHub-ready repositories with:
+A tactical CLI tool for **repo scaffolding, license vaulting, and project initialization.**  
+No fluff. No bloat. Just discipline and code.
 
-- 📄 Auto-generated `README.md` files  
-- 🔐 Pre-filled license templates (MIT, Apache, Proprietary, etc)  
-- 🧰 Full folder scaffolding with `.gitignore`  
-- 🗃️ License vaults tied to your legal name  
+RepoForge creates professional GitHub-ready repos in seconds with:
+
 - 🧙 Wizard mode for guided setup  
+- 📄 Auto-generated README  
+- 🔐 Legally stamped LICENSE files  
+- 🗃️ Folder scaffolding + `.gitignore`  
+- 🧰 License vaults tied to your identity  
+- ⚙️ No dependencies — just Bash and willpower
 
 ---
 
 ## ⚡ Features
 
-- `forge.sh` wizard: Walks you through name, license, and scaffolding  
-- License vault: Stores licenses linked to your identity (encrypted if desired)  
-- Project types: Frontend, Backend, Full Stack (more coming soon)  
-- Zero dependencies. Just run and forge.  
-- One-liners: Alias-friendly for terminal speed demons
+| Feature                | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| 📄 README Generator    | Auto-generates professional project READMEs                                 |
+| 🔐 License Vault       | MIT, Apache, GPL, Proprietary, or your own. Signed with your legal name     |
+| 🧙 Wizard Mode         | Prompts for name, license, folder type — no thinking required               |
+| 🗃️ Folder Scaffolding | Clean repo structure — `src/`, `.gitignore`, etc.                           |
+| ⚡ One-liner Mode       | Alias-friendly CLI for terminal junkies                                     |
+| 🚫 Zero Dependencies    | Doesn’t install a thing. Just `bash forge.sh`                               |
 
 ---
 
-## 🧪 Usage
+## 🧪 How To Use
 
 ```bash
 bash forge.sh
-
-Then follow the prompts:
-
-    Project Name
-
-    License Type
-
-    Custom Legal Name (for license stamping)
-
-    Folder Structure (default or custom)
-
-🔐 License Types
-
-Supports:
-
-    MIT
-
-    Apache 2.0
-
-    GPLv3
-
-    Proprietary (with optional watermarking)
-
-    Custom (inject your own)
-
-📦 Output
-
-Each run generates:
-
-project-name/
-├── README.md
-├── LICENSE
-├── .gitignore
-└── src/
-
-🧭 Philosophy
-
-    “Don’t just write code. Forge legacies.”
-    RepoForge is built for devs who move like artisans—clean, traceable, and professional from line one.
-
-📜 License
-
-Custom license — usage permitted under tactical dev ops only.
-No mass distribution without author approval.
-💬 Questions / Contributions?
-
-DM @BuiltByWill or fork the system and prove your worth.
-
-⛓️ Built under Silent Prototype Labs
-
----
-
-Powered by [BuiltByWill.dev](https://builtbywill.dev)  
-Phase–Coded | Method–Signed | Terminal–Forged
